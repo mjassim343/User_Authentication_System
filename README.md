@@ -5,7 +5,7 @@
 1. Clone the repository into the htdocs folder.
 2. Configure the DATABASE credentials in `database.php` file inside the config folder. 
 3. Configure the EMAIL credentials in `email.php` file inside the config folder. 
-4. Import `users` table schema into your MySQL database.
+4. Import `users` table schema into your MySQL database by using `users.sql` file in the directory.
 5. Run the application by accessing `register.php`, `login.php` and `dashboard` pages.
 
 ## Requirements
